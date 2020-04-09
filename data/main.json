@@ -1,1 +1,22 @@
-
+{
+  "project": {
+    "name": "YeslyDevs",
+    "desc": "Loading...",
+    "link": "https://www.yesly.cl"
+  },
+  "social": {
+    "fb": {
+      "page_name": "@Yesly.Devs",
+      "page_link": "https://www.facebook.com/Yesly.Devs"
+    },
+    "": {},
+    "ig": {
+      "page_name": "@Yesly.Devs",
+      "page_link": "https://www.instagram.com/Yesly.Devs"
+    },
+    "yt": {
+      "page_name": "@Yesly Devs",
+      "page_link": "https://www.youtube.com/channel/UCsRuEF5n6TGdgBErPQQZ5xA"
+    }
+  }
+}
