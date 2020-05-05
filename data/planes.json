@@ -74,7 +74,7 @@
           "bit": 2048
         },
         "copias_seguridad": {
-          "tiene": false,
+          "tiene": true,
           "frecuencia": "semanales"
         },
         "datos_estadisticas": "avanzado",
@@ -124,7 +124,7 @@
           "bit": 2048
         },
         "copias_seguridad": {
-          "tiene": false,
+          "tiene": true,
           "frecuencia": "semanales"
         },
         "datos_estadisticas": "avanzado",
@@ -174,7 +174,7 @@
           "bit": 2048
         },
         "copias_seguridad": {
-          "tiene": false,
+          "tiene": true,
           "frecuencia": "semanales"
         },
         "datos_estadisticas": "avanzado",
@@ -224,7 +224,7 @@
           "bit": 4096
         },
         "copias_seguridad": {
-          "tiene": false,
+          "tiene": true,
           "frecuencia": "diarias"
         },
         "datos_estadisticas": "avanzado",
