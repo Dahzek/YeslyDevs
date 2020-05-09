@@ -1,0 +1,490 @@
+{
+  "producto": [
+    {
+      "code": "301df3",
+      "name": "Diseño Web Simple",
+      "desc": "Diseñamos un Sitio Web simple para tu proyecto o empresa",
+      "deta": "1 Sitio Web Simple",
+      "price": 75000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "85b309",
+      "name": "Diseño Web Funcional",
+      "desc": "Diseñamos un Sitio Web apto para publicar contenido",
+      "deta": "1 Sitio Web Funcional",
+      "price": 185000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "d435f6",
+      "name": "Diseño Web Dedicado",
+      "desc": "Diseñamos un Sitio Web con todo lo necesario para tu proyecto o empresa",
+      "deta": "1 Sitio Web Dedicado",
+      "price": 650000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "301df4",
+      "name": "Diseño Moderno y Ambientado",
+      "desc": "[undesc]",
+      "deta": "",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "85b303",
+      "name": "Web Responsiva",
+      "desc": "Diseño adaptable a cualquier dispositivo",
+      "deta": "",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 5
+    },
+    {
+      "code": "d435f2",
+      "name": "Secciones",
+      "desc": "[undesc]",
+      "deta": "1 sección estática",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 5
+    },
+    {
+      "code": "d435f7",
+      "name": "Secciones",
+      "desc": "[undesc]",
+      "deta": "1 sección administrable",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 5
+    },
+    {
+      "code": "ca7b21",
+      "name": "Enlaces a Redes Sociales",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "ca7b27",
+      "name": "Enlaces a Redes Sociales",
+      "desc": "[undesc]",
+      "deta": "Configurables (HCP)",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "15b9e5",
+      "name": "Formularios",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "1ec900",
+      "name": "Dominio .cl (PA)",
+      "desc": "Registro de dominio .cl",
+      "deta": "1 Dominio .cl",
+      "price": 10000,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "1ec902",
+      "name": "Dominio .com(PA)",
+      "desc": "Registro de dominio .cl",
+      "deta": "1 Dominio .cl",
+      "price": 18.98,
+      "moneda": "usd",
+      "stock_limit": 1
+    },
+    {
+      "code": "1ec900",
+      "name": "Dominio .xyz (PA)",
+      "desc": "Registro de dominio .cl",
+      "deta": "1 Dominio .cl",
+      "price": 11.98,
+      "moneda": "usd",
+      "stock_limit": 1
+    },
+    {
+      "code": "1ce7c9",
+      "name": "Hosting Web (PA)",
+      "desc": "Hostea tu Sitio Web en un servidor Compartido",
+      "deta": "1 Hosting Básico",
+      "price": 15000,
+      "moneda": "clp",
+      "stock_limit": 5
+    },
+    {
+      "code": "1ce7c4",
+      "name": "Hosting Web (PA)",
+      "desc": "Hostea tu Sitio Web en un servidor Premium",
+      "deta": "1 Hosting Premium",
+      "price": 45500,
+      "moneda": "clp",
+      "stock_limit": 5
+    },
+    {
+      "code": "1ce7c1",
+      "name": "Hosting Web (PA)",
+      "desc": "Hostea tu Sitio Web en un servidor Dedicado",
+      "deta": "1 Hosting Dedicado",
+      "price": 225000,
+      "moneda": "clp",
+      "stock_limit": 5
+    },
+    {
+      "code": "f0991d",
+      "name": "Ancho de Banda",
+      "desc": "descripcion del mismo",
+      "deta": "limitado",
+      "price": 99,
+      "moneda": "clp",
+      "stock_limit": 5
+    },
+    {
+      "code": "f0997d",
+      "name": "Ancho de Banda",
+      "desc": "descripcion del mismo",
+      "deta": "ilimitado",
+      "price": 99,
+      "moneda": "clp",
+      "stock_limit": 5
+    },
+    {
+      "code": "5eb1f1",
+      "name": "Hosting Archivos Dedicado",
+      "desc": "Archivos hosting dedicado",
+      "deta": "1 archivo",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1000
+    },
+    {
+      "code": "5eb5f5",
+      "name": "Hosting Archivos Dedicado",
+      "desc": "Agrega espacio para 50 archivos más",
+      "deta": "+ 50 Slots",
+      "price": 15000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "5eb5f1",
+      "name": "Hosting Archivos Dedicado",
+      "desc": "Agrega espacio para 200 archivos más",
+      "deta": "+ 200 Slots",
+      "price": 26000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "5eb5f3",
+      "name": "Hosting Archivos Dedicado",
+      "desc": "Agrega espacio para 500 archivos más",
+      "deta": "+ 500 Slots",
+      "price": 65000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "5eb5f7",
+      "name": "Hosting Archivos Dedicado",
+      "desc": "Agrega espacio para 1000 archivos más",
+      "deta": "+ 1000 Slots",
+      "price": 100000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "52d49d",
+      "name": "Correo Corporativo (PA)",
+      "desc": "Agrega una cuenta de correo electrónico con 500MB de almacenamiento",
+      "deta": "+ 1 Cuenta con 500MB",
+      "price": 5000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "074b63",
+      "name": "Base de Datos Dedicada",
+      "desc": "Agrega una Base de Datos",
+      "deta": "+ 1 Base de Datos",
+      "price": 15000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "1d22fe",
+      "name": "Protección CloudFlare",
+      "desc": "[undesc]",
+      "deta": "1 Plan Free CloudFlare",
+      "price": 0,
+      "moneda": "usd",
+      "stock_limit": 99
+    },
+    {
+      "code": "1d24fe",
+      "name": "Protección CloudFlare",
+      "desc": "Actualiza tu Protección CloudFlare",
+      "deta": "1 Plan PRO CloudFlare",
+      "price": 20,
+      "moneda": "usd",
+      "stock_limit": 99
+    },
+    {
+      "code": "1d23fe",
+      "name": "Protección CloudFlare",
+      "desc": "Actualiza tu Protección CloudFlare",
+      "deta": "1 Plan Business CloudFlare",
+      "price": 200,
+      "moneda": "usd",
+      "stock_limit": 99
+    },
+    {
+      "code": "b411bd",
+      "name": "Certificación SSL",
+      "desc": "Certifica tu página Web con SSL",
+      "deta": "+ 1 Certificado SSL (2048 Bit)",
+      "price": 15000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "b421bd",
+      "name": "Certificación SSL",
+      "desc": "Certifica tu página Web con SSL",
+      "deta": "+ 1 Certificado SSL (4096 Bit)",
+      "price": 85500,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "e9dcb4",
+      "name": "Copias de Seguridad",
+      "desc": "Asegura tu información con copias de seguridad Semanales",
+      "deta": "Copias de Seguridad Semanales",
+      "price": 25000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "e9dcb7",
+      "name": "Copias de Seguridad",
+      "desc": "Asegura tu información con copias de seguridad Diarias",
+      "deta": "Copias de Seguridad Diarias",
+      "price": 65000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "323f6a",
+      "name": "Datos y Estadísticas",
+      "desc": "Obtén más información de cómo va tu Sitio Web",
+      "deta": "Datos y Estadísticas Simples",
+      "price": 15000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "323f6b",
+      "name": "Datos y Estadísticas",
+      "desc": "Obtén más información de cómo va tu Sitio Web",
+      "deta": "Datos y Estadísticas Avanzadas",
+      "price": 35000,
+      "moneda": "clp",
+      "stock_limit": 99
+    },
+    {
+      "code": "2cbd33",
+      "name": "Optimización SEO",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "2a37bc",
+      "name": "Iconos",
+      "desc": "Usa Iconos para captar la atención de tus clientes",
+      "deta": "Kit Básico",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "2a32bc",
+      "name": "Iconos",
+      "desc": "Usa Iconos profesionales para captar la atención de tus clientes",
+      "deta": "Kit Avanzado",
+      "price": 2500,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "2a35bc",
+      "name": "Iconos",
+      "desc": "Usa Iconos profesionales para captar la atención de tus clientes",
+      "deta": "Kit PRO",
+      "price": 15000,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "d1b1bd",
+      "name": "Soporte",
+      "desc": "Obtén soporte",
+      "deta": "Soporte Básico",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "d1b8bd",
+      "name": "Soporte",
+      "desc": "Obtén un soporte Extendido",
+      "deta": "Soporte Premium",
+      "price": 15000,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "d1b3bd",
+      "name": "Soporte",
+      "desc": "Obtén un soporte Extendido",
+      "deta": "Soporte PRO",
+      "price": 25000,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "c581b7",
+      "name": "Administrador de Correos",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "2d3496",
+      "name": "Panel de Control",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "9ca88f",
+      "name": "ImageUploader (HPC)",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "e19a19",
+      "name": "Generador de Contraseñas (HPC)",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "99290f",
+      "name": "Publicador de contenido (HPC)",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "436f71",
+      "name": "Acortador de URL (HPC)",
+      "desc": "Acorta enlaces largos, para compartirlos de forma fácil",
+      "deta": "Acortador de Enlaces",
+      "price": 8500,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "aa7603",
+      "name": "Seguimiento de Status (HPC)",
+      "desc": "descripcion del mismo",
+      "deta": "detalles del mismo",
+      "price": 100,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "8f962a",
+      "name": "Seguimiento de Status (HPC)",
+      "desc": "Comprueba que tus servicios esten siempre funcionando",
+      "deta": "Seguimiento de Estatus (Dedicado)",
+      "price": 8700,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "455e5e",
+      "name": "Precopiado (HPC)",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "79b9ec",
+      "name": "Administrador de Tareas (HPC)",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "c18901",
+      "name": "Contenidos para Redes Sociales (HPC)",
+      "desc": "Genera contenido visual para tus redes sociales",
+      "deta": "Generador de Redes Sociales (Con Publicidad)",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "c18905",
+      "name": "Contenidos para Redes Sociales (HPC)",
+      "desc": "Genera contenido visual para tus redes sociales",
+      "deta": "Generador de Redes Sociales (Sin Publicidad)",
+      "price": 8500,
+      "moneda": "clp",
+      "stock_limit": 1
+    },
+    {
+      "code": "23eefa",
+      "name": "Sistema de Referidos (HPC)",
+      "desc": "[undesc]",
+      "deta": "[undesc]",
+      "price": 0,
+      "moneda": "clp",
+      "stock_limit": 1
+    }
+  ]
+}
