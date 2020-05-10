@@ -139,7 +139,7 @@
       "price": 100000
     },
     {
-      "id": 1,
+      "id": 2,
       "code": "dbb596",
       "name": "plan galería",
       "product_list": [
@@ -319,7 +319,7 @@
       "price": 225000
     },
     {
-      "id": 1,
+      "id": 3,
       "code": "10b0f5",
       "name": "plan blog",
       "product_list": [
@@ -499,7 +499,7 @@
       "price": 375000
     },
     {
-      "id": 1,
+      "id": 4,
       "code": "60611e",
       "name": "plan tienda",
       "product_list": [
@@ -679,7 +679,7 @@
       "price": 650000
     },
     {
-      "id": 1,
+      "id": 5,
       "code": "e295cd",
       "name": "plan PRO",
       "product_list": [
